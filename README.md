@@ -4,7 +4,7 @@
 
 This repository contains all shell projects
 
-# Description
+# Structure
 
-**0x00. Shell, basics**
+**0x00. Shell, basics**__
 **0x01. Shell, permissions**
