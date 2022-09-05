@@ -7,4 +7,5 @@ This repository contains all shell projects
 # Structure
 
 **0x00. Shell, basics** <br/>
-**0x01. Shell, permissions**
+**0x01. Shell, permissions** <br/>
+**0x02. Shell, I/O Redirections and filters**
